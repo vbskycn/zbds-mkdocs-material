@@ -22,8 +22,8 @@ nav:
   - 首页: index.md  # 导航项 "首页"，链接到 index.md 文件
   #- 软件介绍: js.md  # 导航项 "软件介绍"，链接到 js.md 文件
   - 下载安装:  # 导航项 "下载安装"，有多个子项
-      - 手机: azsj.md  # 子导航项 "手机"，链接到 azsj.md 文件
-      - 电视: aztv.md  # 子导航项 "电视"，链接到 aztv.md 文件
+      - 手机安装: azsj.md  # 子导航项 "手机"，链接到 azsj.md 文件
+      - 电视安装: aztv.md  # 子导航项 "电视"，链接到 aztv.md 文件
   - 视频演示: spys.md  # 导航项 "视频演示"，链接到 spys.md 文件
   - 使用须知: syxz.md  # 导航项 "使用须知"，链接到 syxz.md 文件
   - 使用说明: sysm.md  # 导航项 "使用说明"，链接到 sysm.md 文件
