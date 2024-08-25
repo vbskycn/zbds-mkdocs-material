@@ -1,38 +1,39 @@
 # 站点的基本信息配置
-site_name: 直播电视  # 站点名称，将在页面顶部和浏览器标签中显示
-site_url: https://zbds.zhoujie218.top  # 站点的 URL，通常用于生成 RSS 或站点地图
+site_name: 直播电视文档 
+site_url: https://zbds.zhoujie218.top  
 
 # 主题和样式配置
 theme:
-  name: material  # 使用的主题名称，这里选择的是 "Material for MkDocs"
+  name: material 
   features:  # 启用主题的一些特性和功能
     - navigation.path  # 在导航栏中显示当前页面的完整路径
     - navigation.sections  # 在侧边栏中显示各部分的结构化导航
     - navigation.top  # 在顶部显示返回顶部的按钮
     - navigation.instant  # 启用即时导航，无需页面刷新
     - navigation.instant.progress  # 在即时导航时显示加载进度条
-    - navigation.prune  # 只显示与当前页面相关的导航项，减少干扰
+    #- navigation.prune  # 只显示与当前页面相关的导航项，减少干扰
     - navigation.footer  # 在页面底部显示页脚
     - search.suggest  # 启用搜索建议功能，用户输入时显示建议结果
   
-  favicon: assets/favicon.png  # 网站图标路径，将显示在浏览器标签页中
+  favicon: assets/favicon.png  
 
-# 导航栏的配置，定义站点顶部和侧边栏的导航结构
+
 
   custom_dir: overrides
   extra_css:
     - overrides/main.css
 
+# 导航栏的配置，定义站点顶部和侧边栏的导航结构
 nav:
-  - 首页: index.md  # 导航项 "首页"，链接到 index.md 文件
-  #- 软件介绍: js.md  # 导航项 "软件介绍"，链接到 js.md 文件
-  - 下载安装:  # 导航项 "下载安装"，有多个子项
-      - 手机安装: azsj.md  # 子导航项 "手机"，链接到 azsj.md 文件
-      - 电视安装: aztv.md  # 子导航项 "电视"，链接到 aztv.md 文件
-  - 视频演示: spys.md  # 导航项 "视频演示"，链接到 spys.md 文件
-  - 使用须知: syxz.md  # 导航项 "使用须知"，链接到 syxz.md 文件
-  - 使用说明: sysm.md  # 导航项 "使用说明"，链接到 sysm.md 文件
-  - 网络科普: wlkp.md  # 导航项 "网络科普"，链接到 wlkp.md 文件
-  - 图例: newtl.md  # 导航项 "使用说明"，链接到 sysm.md 文件
-  - 打赏说明: dssm.md  # 导航项 "打赏说明"，链接到 dssm.md 文件
-  - 免费版: about.md  # 导航项 "打赏说明"，链接到 dssm.md 文件
+  - 首页: index.md  
+  
+  - 下载安装:  
+      - 手机安装: azsj.md  
+      - 电视安装: aztv.md  
+  - 视频演示: spys.md  
+  - 使用须知: syxz.md  
+  - 使用说明: sysm.md  
+  - 网络科普: wlkp.md  
+  - 图例: newtl.md  
+  - 打赏说明: dssm.md  
+  - 免费版: about.md  
