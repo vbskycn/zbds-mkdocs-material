@@ -1,4 +1,6 @@
 /* overrides/main.css */
-.md-footer {
+
+/* 隐藏页脚中的 "Made with Material for MkDocs" 超级链接 */
+.md-footer-meta .md-copyright a {
     display: none;
 }
