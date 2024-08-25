@@ -18,6 +18,11 @@ theme:
   favicon: assets/favicon.png  # 网站图标路径，将显示在浏览器标签页中
 
 # 导航栏的配置，定义站点顶部和侧边栏的导航结构
+
+  custom_dir: overrides
+  extra_css:
+    - overrides/main.css
+
 nav:
   - 首页: index.md  # 导航项 "首页"，链接到 index.md 文件
   #- 软件介绍: js.md  # 导航项 "软件介绍"，链接到 js.md 文件
