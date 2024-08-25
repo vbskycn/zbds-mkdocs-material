@@ -15,7 +15,7 @@ theme:
     - navigation.footer  # 在页面底部显示页脚
     - search.suggest  # 启用搜索建议功能，用户输入时显示建议结果
   
-  favicon: _index.assets/favicon.png  # 网站图标路径，将显示在浏览器标签页中
+  favicon: assets/favicon.png  # 网站图标路径，将显示在浏览器标签页中
 
 # 导航栏的配置，定义站点顶部和侧边栏的导航结构
 nav:
@@ -28,6 +28,6 @@ nav:
   - 使用须知: syxz.md  # 导航项 "使用须知"，链接到 syxz.md 文件
   - 使用说明: sysm.md  # 导航项 "使用说明"，链接到 sysm.md 文件
   - 网络科普: wlkp.md  # 导航项 "网络科普"，链接到 wlkp.md 文件
-  - 图例: sytl.md  # 导航项 "使用说明"，链接到 sysm.md 文件
+  - 图例: newtl.md  # 导航项 "使用说明"，链接到 sysm.md 文件
   - 打赏说明: dssm.md  # 导航项 "打赏说明"，链接到 dssm.md 文件
   - 免费版: about.md  # 导航项 "打赏说明"，链接到 dssm.md 文件
