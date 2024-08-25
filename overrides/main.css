@@ -1,0 +1,14 @@
+.md-header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.md-header__title {
+    margin-right: auto;
+}
+
+.md-header__nav {
+    display: flex;
+    gap: 1em;
+}
