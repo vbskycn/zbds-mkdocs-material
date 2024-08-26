@@ -10,7 +10,7 @@ extra:
 # 主题和样式配置
 theme:
   name: material 
-  custom_dir: 'overrides'
+  custom_dir: overrides
   language: zh
   favicon: assets/favicon.png  
 
