@@ -1,9 +1,11 @@
 # 站点的基本信息配置
-site_name: 直播电视文档 
+site_name: 直播电视网站 
 site_url: https://zbds.zhoujie218.top  
-copyright: Copyright &copy; zbds.zhoujie218.top  这是一个使用 MkDocs 构建的直播电视文档
-site_description: "一个使用 MkDocs 构建的直播电视文档 "
-
+copyright: Copyright &copy; zbds.zhoujie218.top  这是一个使用 MkDocs 构建的直播电视网站
+site_description: "一个使用 MkDocs 构建的直播电视网站 "
+extra:
+  generator: false  # 关闭页脚的“Made with Material for MkDocs”显示
+  footer: '一个使用 MkDocs 构建的直播电视网站'  # 右下角自定义信息
 
 # 主题和样式配置
 theme:
@@ -33,9 +35,7 @@ theme:
   
   extra_css:
     - stylesheets/extra.css
-extra:
-  generator: false  # 关闭页脚的“Made with Material for MkDocs”显示
-  footer: '一个使用 MkDocs 构建的直播电视文档'  # 右下角自定义信息
+
 
   
 # 导航栏的配置，定义站点顶部和侧边栏的导航结构
