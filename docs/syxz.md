@@ -7,7 +7,7 @@ hide:
 由于ipv6网络的优势，目前国家也在大力推进ipv6网络，所以大部分源改为ipv6网络优先。在你家网络没有ipv6的情况下链接可能会比较慢，超时后才会切换到ipv4，也可以按遥控的左右键快速切换源。
 </p>
 
-测试是否有ipv6的方法：手机连上家里的wifi后，打开网站 [https://ipw.cn/](https://ipw.cn/ ) 即可知道。目前电信移动联通都可以免费开通ipv6,拨打客服电视要求开通ipv6就可以了。
+测试是否有ipv6的方法：手机连上家里的wifi后，打开网站 [https://ipw.cn/](https://ipw.cn/ ) 即可知道。目前电信移动联通都可以免费开通ipv6,拨打客服电话要求开通ipv6就可以了。
 
 ![29d36fcab76356d75a79773abea4abe](syxz.assets/29d36fcab76356d75a79773abea4abe.webp)
 
