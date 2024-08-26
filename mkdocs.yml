@@ -42,13 +42,16 @@ theme:
 nav:
   - 首页: index.md  
   
-  - 下载安装:  
+  - 安装:  
       - 电视安装: aztv.md
       - 手机安装: azsj.md
   - 视频演示: spys.md  
   - 使用须知: syxz.md  
-  - 使用说明: sysm.md  
-  - 网络科普: wlkp.md  
-  - 图例: newtl.md  
+  - 使用说明: sysm.md
+  - 集锦:    
+      - 网络科普: wlkp.md
+      - 常见问题: cjwt.md  
+      - 问题反馈: wtfk.md
+  - 软件图例: newtl.md  
   - 打赏说明: dssm.md  
   - 免费版: about.md  
