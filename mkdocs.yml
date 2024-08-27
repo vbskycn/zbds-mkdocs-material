@@ -50,8 +50,8 @@ nav:
   - 使用说明: sysm.md
   - 集锦:    
       - 网络科普: wlkp.md
-      - 常见问题: cjwt.md  
-      - 问题反馈: wtfk.md
+      #- 常见问题: cjwt.md  
+      #- 问题反馈: wtfk.md
   - 软件图例: newtl.md  
   - 打赏说明: dssm.md  
   - 免费版: about.md  
