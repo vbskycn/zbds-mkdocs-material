@@ -8,6 +8,8 @@ extra:
   footer: '直播电视文档'  
   comments:
     enabled: false
+  extra_javascript:
+    - 'js/analytics.js'
 
 
 theme:
