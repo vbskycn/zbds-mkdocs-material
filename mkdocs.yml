@@ -5,12 +5,14 @@ copyright: Copyright &copy; www.zbds.top
 site_description: "直播电视文档 "
 extra:
   generator: false  # 关闭页脚的“Made with Material for MkDocs”显示
-  footer: '直播电视文档'  # 右下角自定义信息
+  footer: '直播电视文档'  
+  comments:
+    enabled: true
 
-# 主题和样式配置
+
 theme:
   name: material 
-  custom_dir: overrides
+  custom_dir: custom_theme
   language: zh
   favicon: assets/favicon.png  
 
@@ -33,9 +35,6 @@ theme:
     - search.share # 搜索结果分享
     - content.code.copy # 代码段上的赋值按钮
   
-  extra_css:
-    - stylesheets/extra.css
-
 
   
 # 导航栏的配置，定义站点顶部和侧边栏的导航结构
@@ -51,7 +50,7 @@ nav:
   - 集锦:    
       - 网络科普: wlkp.md
       #- 常见问题: cjwt.md  
-      #- 问题反馈: wtfk.md
+      - 问题反馈: wtfk.md
   - 软件图例: newtl.md  
   - 打赏说明: dssm.md  
   - 免费版: about.md  
