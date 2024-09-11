@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 ---
 
 ### 在使用过程中有任何问题，都可以在这里反馈
