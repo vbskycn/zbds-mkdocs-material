@@ -6,8 +6,6 @@ site_description: "直播电视文档 "
 extra:
   generator: false  # 关闭页脚的“Made with Material for MkDocs”显示
   footer: '直播电视文档'  
-  comments:
-    enabled: true
 
 
 theme:
