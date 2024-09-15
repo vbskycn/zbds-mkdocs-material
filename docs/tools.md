@@ -8,7 +8,7 @@ hide:
 <style>
 .converter-container {
     background-color: #ffffff;
-    padding: 2rem 1.5rem; /* 稍微增加上下内边距 */
+    padding: 0.1rem 1.5rem; /* 稍微减少上下内边距 */
     border-radius: 4px;
     width: 100%;
     max-width: 100%;
@@ -16,28 +16,31 @@ hide:
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 .converter-title {
-    font-size: 1.5rem;
+    font-size: 0.5rem;
     font-weight: 500;
     margin-bottom: 1.5rem;
     color: #3f51b5;
 }
 .converter-section {
-    margin-bottom: 2rem; /* 增加部分之间的间距 */
+    margin-bottom: 1.3rem; /* 保持部分之间的间距不变 */
+}
+.converter-section:first-child {
+    margin-top: -0.5rem; /* 为第一个部分添加负的上边距 */
 }
 .converter-subtitle {
     font-size: 1.1rem;
     font-weight: 500;
-    margin-bottom: 1rem; /* 增加副标题和表单之间的间距 */
+    margin-bottom: 0.75rem; /* 稍微减少副标题和表单之间的间距 */
     color: #424242;
 }
 .converter-form {
     display: flex;
     flex-direction: column;
-    gap: 1rem; /* 增加表单元素之间的间距 */
+    gap: 0.75rem; /* 稍微减少表单元素之间的间距 */
 }
 .converter-input {
     width: 100%;
-    padding: 0.75rem; /* 增加输入框的高度 */
+    padding: 0.6rem; /* 稍微减少输入框的高度 */
     border: 1px solid #e0e0e0;
     border-radius: 4px;
     font-size: 0.9rem;
@@ -49,7 +52,7 @@ hide:
 }
 .converter-button {
     width: 100%;
-    padding: 0.75rem; /* 增加按钮的高度 */
+    padding: 0.6rem; /* 稍微减少按钮的高度 */
     color: white;
     border: none;
     border-radius: 4px;
@@ -57,7 +60,7 @@ hide:
     font-weight: 500;
     cursor: pointer;
     transition: background-color 0.2s;
-    margin-top: 0.5rem; /* 在按钮上方添加一些额外的间距 */
+    margin-top: 0.25rem; /* 稍微减少按钮上方的额外间距 */
 }
 .converter-button-blue {
     background-color: #3b82f6;
