@@ -1,1 +1,0 @@
-LA.init({id:"23VI72XcGSs4VQpA",ck:"23VI72XcGSs4VQpA"});
