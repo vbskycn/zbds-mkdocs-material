@@ -8,7 +8,7 @@ hide:
 <style>
 .converter-container {
     background-color: #ffffff;
-    padding: 1.5rem 1.5rem; /* 稍微减少上下内边距 */
+    padding: 0.1rem 1.5rem; /* 稍微减少上下内边距 */
     border-radius: 4px;
     width: 100%;
     max-width: 100%;
