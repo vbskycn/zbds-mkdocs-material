@@ -8,7 +8,7 @@ extra:
   footer: '直播电视文档'  
   comments:
     enabled: false
-
+  use_directory_urls: false
 
 theme:
   name: material 
