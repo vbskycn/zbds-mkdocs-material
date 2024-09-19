@@ -3,9 +3,7 @@ hide:
   - toc
 ---
 
-
-
-![image-20240825210046423](assets/image-20240825210046423.webp)
+![image-20240919164914376](assets/image-20240919164914376.webp)
 
 ![image-20240825210005322](assets/image-20240825210005322.webp)
 
