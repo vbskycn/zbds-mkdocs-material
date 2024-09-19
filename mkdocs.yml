@@ -41,6 +41,7 @@ nav:
   - 首页: index.md  
   
   - 安装:  
+      - 详细教程: jiaocheng/index.md
       - 电视安装: aztv.md
       - 手机安装: azsj.md
   - 视频演示: spys.md  
