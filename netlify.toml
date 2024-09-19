@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*/index.html"
-  to = "/:splat/index.html"
-  status = 200
-  force = false
