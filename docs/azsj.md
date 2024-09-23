@@ -5,7 +5,7 @@ hide:
 
 ---
 
-**[下载](https://img-cloud.zbds.top/zbds/zbds.apk)**     [**备用下载**](https://zbds.lanzoui.com/b0b2kul6b)
+ **[下载地址1](/soft/zbds.apk)**      **[下载地址2](https://img-cloud.zbds.top/zbds/zbds.apk)**         [**备用下载**](https://zbds.lanzoui.com/b0b2kul6b)
 
 ### 如果是微信打开的，请用手机浏览器打开，点击上面链接即可下载到手机
 
