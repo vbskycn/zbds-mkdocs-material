@@ -9,6 +9,8 @@ extra:
   comments:
     enabled: false
   use_directory_urls: false
+  extra_javascript:
+    - 'js/google_ads.js'
 
 theme:
   name: material 
