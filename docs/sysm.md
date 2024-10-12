@@ -13,5 +13,5 @@ hide:
 
 
 
-![image-20240826100324922](sysm.assets/image-20240826100324922.webp)
+![image-20240826100324922](assets/image-20240826100324922.webp)
 

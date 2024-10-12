@@ -26,4 +26,4 @@ hide:
 
    
 
-![image-20240826100545141](syxz.assets/image-20240826100545141.webp)
+![image-20240826100545141](assets/image-20240826100545141.webp)
