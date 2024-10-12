@@ -9,7 +9,7 @@ hide:
 
 测试是否有ipv6的方法：手机连上家里的wifi后，打开网站 [https://ipw.cn/](https://ipw.cn/ ) 即可知道。目前电信移动联通都可以免费开通ipv6,拨打客服电话要求开通ipv6就可以了。
 
-![29d36fcab76356d75a79773abea4abe](syxz.assets/29d36fcab76356d75a79773abea4abe.webp)
+![29d36fcab76356d75a79773abea4abe](assets/29d36fcab76356d75a79773abea4abe.webp)
 
 <p style="color:red; font-size:20px; font-weight:bold;">
 移动网络的用户请优先使用移动专区里面的节目，高清、快速、稳定。还可以在设置菜单中屏蔽自己网络不支持的区域，比如移动网络可以屏蔽电信专区，外网专区等等！
